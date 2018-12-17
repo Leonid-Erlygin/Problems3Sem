@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CashServer.dir/main.cpp.o  -o CashServer 

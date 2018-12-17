@@ -1,0 +1,3 @@
+/home/leonid/CLionProjects/CashServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/leonid/CLionProjects/CashServer/cmake-build-debug/CMakeFiles/CashServer.dir
+/home/leonid/CLionProjects/CashServer/cmake-build-debug/CMakeFiles/edit_cache.dir
